@@ -1,0 +1,8 @@
+<h1>Books</h1>
+
+<table ng-table ="vm.booksTable">
+    <tr ng-repeat="book in vm.books">
+        <td data-title="'Title'">{{ book.title }}</td>
+        <td data-title="'Author'">{{ book.author }}</td>
+    </tr>
+</table>

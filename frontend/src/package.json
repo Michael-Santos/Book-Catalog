@@ -1,0 +1,23 @@
+{
+  "name": "bookshelf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "http-server ./",
+    "sass": "sass --watch assets/scss:assets/css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bookshelf"
+  ],
+  "author": "Mike",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.8.0",
+    "angular-material": "^1.2.0",
+    "angular-route": "^1.8.0",
+    "ng-table": "^1.0.0",
+    "sass": "^1.26.10"
+  }
+}
