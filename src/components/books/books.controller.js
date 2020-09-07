@@ -5,7 +5,6 @@
         .module('bookshelfApp')
         .controller('BooksController', BooksController)
 
-        debugger;
     function BooksController() {
         debugger;
         var vm = this;
