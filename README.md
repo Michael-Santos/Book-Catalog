@@ -12,6 +12,17 @@ At this point the "server" is already installed so you need to run this command 
     `http-server ./src`
 
 Have fun!... with this bookshelf organizer useless :no_mouth:   
+
+
+Additional links (These are really **USEFULL** items here, comrade)
+
+1. List of all markdown emotions ([link](https://gist.github.com/rxaviers/7360908))
+
+2. Markdown best practices ([link](https://www.markdownguide.org/basic-syntax/#blockquotes-with-other-elements))
+
+
+
+
     
 
 
